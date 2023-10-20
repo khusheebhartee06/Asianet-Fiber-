@@ -1,0 +1,68 @@
+h2,h3{
+    color: rgb(7, 7, 133);
+}
+#myrow{
+    color: white;
+    background-color: rgb(239, 238, 238);
+}
+.dropdown:hover > .dropdown-menu{
+    display: block;
+}
+#myfirstrow{
+    background-color: rgb(11, 11, 141);
+    color: white;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+a{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(22, 22, 129);
+}
+a:hover{
+    color: white;
+   
+}
+.my img{
+    border-radius: 20px;
+}
+.images2 img{
+    height: 80px;
+    position: fixed;
+    bottom: 5px;
+    right: 10px;
+}
+.images1 img{
+    position: fixed;
+    bottom: 30%;
+    right: 10px;
+    
+}
+.myrow1 h5, .myrow1 big{
+    color: rgb(81, 80, 80);
+}
+.list li{
+    color: rgb(8, 8, 129);
+}
+.btn{
+    background-color: rgb(21, 21, 130);
+    color: white;
+    padding:6px 25px ;
+}
+.mycontainer .col-md-6{
+    border: 2px solid rgb(9, 9, 127);
+}
+.mywhyrow{
+    background-color: rgb(16, 16, 133);
+    border-radius:40px ;
+    color: white;
+}
+.mywhyrow .btn{
+    background-color: rgb(247, 8, 120);
+}
+.myimage h5{
+    color: rgb(18, 18, 136);
+}
+.speed{
+    background-color: hsl(334, 95%, 49%);
+    border-radius: 50%;
+}
